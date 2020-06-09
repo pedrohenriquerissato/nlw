@@ -1,5 +1,7 @@
 # README
-Sample node server for next level week a RocketSeat course  
+Sample node server for next level week a RocketSeat course.
+
+Server must be running for Mobile and Frontend versions to work.
 
 # INSTALL
 Clone this repo  
